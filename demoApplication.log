@@ -1,0 +1,11 @@
+[main] INFO  mysqlAndLog4j.Employee  - 2.UPDATE
+  [main] ERROR mysqlAndLog4j.Employee  - Invalid Entry
+  [main] ERROR mysqlAndLog4j.Employee  - Invalid Emp_type
+  [main] ERROR mysqlAndLog4j.Employee  - invalid entry
+  [main] INFO  mysqlAndLog4j.Employee  - Data Inserted
+  [main] WARN  mysqlAndLog4j.Employee  - Invalid Emp_type
+  [main] WARN  mysqlAndLog4j.Employee  - Number should be less than 0
+  [main] INFO  mysqlAndLog4j.Employee  - Data Inserted
+  [main] INFO  mysqlAndLog4j.DeleteLogic  - Record was deleted
+  [main] INFO  mysqlAndLog4j.Employee  - Data Inserted
+  
